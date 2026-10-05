@@ -1,0 +1,11 @@
+{
+  "id": "ninicoo-bremen-stadt-lod2",
+  "name": "Bremen Stadt – LoD2",
+  "version": "1.1.4",
+  "author": {
+    "name": "NINICOO"
+  },
+  "dependencies": {
+    "subway-builder": ">=1.7.2"
+  }
+}
